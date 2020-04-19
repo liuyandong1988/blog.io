@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
+title: "樱桃"
+description: "记录樱桃成长的点滴 " 
 header-img: "img/green.jpg"
 ---
 
